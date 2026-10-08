@@ -72,9 +72,13 @@ The Power BI dashboard provides an overview of pizza sales performance, includin
 
 ### Dashboard Preview
 
-![Pizza Sales Dashboard](pizza_sales_dashboard2.JPG)
+#### Dashboard 1
 
----
+![Pizza Sales Dashboard 1](pizza_sales_dashboard1.JPG)
+
+#### Dashboard 2
+
+![Pizza Sales Dashboard 2](pizza_sales_dashboard2.JPG)
 
 ## 🔍 SQL Analysis
 
